@@ -85,9 +85,9 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+        title: SODA Team, Inria Saclay
+        sub_title: Postdoctoral Researcher
+        caption: November 2021 - Present
         link: Link to company (optional)
         quote: >
           Short description of the company (optional)
@@ -99,16 +99,15 @@ content:
       - layout: top-right
         title: Ajou University
         sub_title: PhD in Artificial Intelligence
-        caption: Aug. 2021
+        caption: August 2021
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
-    content:
       - layout: top-right
         title: Ajou University
-        sub_title: PhD in Artificial Intelligence
-        caption: Aug. 2021
+        sub_title: MSc in Industrial Engineering
+        caption: August 2017
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
