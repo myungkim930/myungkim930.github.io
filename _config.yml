@@ -13,15 +13,15 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Publications
+    - name: Teaching
 
 footer:
   show_powered_by: false
   contact:
     - type: email
       name: Email
-      value: yourmail@domain.com
+      value: myung.kim@inria.fr
   follow:
     - type: linkedin
       name: LinkedIn
