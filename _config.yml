@@ -11,7 +11,7 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: Myung Jun Kim
       slug: /
     - name: Work
     - name: Blog
@@ -38,10 +38,7 @@ footer:
       link: http://linkedin.com/in/YourLinkedInUsername
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
+      link: http://github.com/myungkim930
     - type: rss
       name: RSS
       link: /feed.xml
