@@ -29,9 +29,12 @@ footer:
     - type: github
       name: GitHub
       link: http://github.com/myungkim930
-    - type: rss
-      name: RSS
-      link: /feed.xml
+
+footer-links:
+  email: myung.kim@inria.fr
+  github: myungkim930
+  linkedin: myung-jun-kim-897b201aa
+  googlescholar: xmFLvXAAAAAJ
 
 # Build settings
 markdown: kramdown
