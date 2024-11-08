@@ -1,0 +1,11 @@
+.svg-icon {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+  
+    &.email         { background-image: url(icons/email.svg); }
+    &.twitter       { background-image: url(icons/twitter.svg); }
+    &.github        { background-image: url(icons/github.svg); }
+    &.linkedin      { background-image: url(icons/linkedin.svg); }
+    &.googlescholar	{ background-image: url(icons/scholar.svg); }
+  }
