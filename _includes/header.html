@@ -41,6 +41,9 @@
             {% else %}
               {% if contact.value and contact.value != "" and contact.value != nil %}
                 {{ contact.value }}
+              {% else %}
+                {{ contact.name }}
+              {% endif %}
             {% endif %}
           </div>
 
