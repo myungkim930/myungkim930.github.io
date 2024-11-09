@@ -1,7 +1,7 @@
 ---
-layout: publications
-title: Publications
-slug: /publications
+layout: teaching
+title: Teaching
+slug: /teaching
 items:
   - title: My Interest 1
     image:
