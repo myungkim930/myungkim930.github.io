@@ -31,7 +31,7 @@ footer:
       link: http://github.com/myungkim930
 
 footer-links:
-  contact:
+  channel:
     - type: email
       name: Email
       value: myung.kim@inria.fr
