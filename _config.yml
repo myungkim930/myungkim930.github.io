@@ -22,6 +22,15 @@ footer:
     - type: email
       name: Email
       value: myung.kim@inria.fr
+    - type: linkedin
+      name: LinkedIn
+      link: http://linkedin.com/in/myung-jun-kim-897b201aa
+    - type: github
+      name: GitHub
+      link: http://github.com/myungkim930
+    - type: scholar
+      name: Google Scholar
+      link: https://scholar.google.com/citations?hl=en&user=xmFLvXAAAAAJ
   follow:
     - type: linkedin
       name: LinkedIn
