@@ -5,13 +5,13 @@
         <h4>CONTACT</h4>
 
         <div class="social-links">
-          {% for contact in site.footer-links %}
+          {% for contact in site.footer.contact %}
             <div class="social-link contact-links">
 
-              {% assign contact_icon_path = "/assets/icons/" | append: contact | downcase | append: ".svg" | absolute_url %}
+              {% assign contact_icon_path = "/assets/img/icons/" | append: contact.type | downcase | append: ".png" | absolute_url %}
               <img
                 src="{{ contact_icon_path }}"
-                alt="{{ contact }}"
+                alt="{{ contact.type }}"
               />
 
               {% if contact.type == "email" %}

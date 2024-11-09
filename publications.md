@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: publications
+title: P}ublications
 slug: /publications
 items:
   - title: My Interest 1
