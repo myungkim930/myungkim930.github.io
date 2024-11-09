@@ -30,20 +30,20 @@ footer:
       name: GitHub
       link: http://github.com/myungkim930
 
-footer-links:
-  channel:
-    - type: email
-      name: Email
-      value: myung.kim@inria.fr
-    - type: linkedin
-      name: LinkedIn
-      value: http://linkedin.com/in/myung-jun-kim-897b201aa
-    - type: github
-      name: GitHub
-      value: http://github.com/myungkim930
-    - type: scholar
-      name: Google Scholar
-      value: https://scholar.google.com/citations?hl=en&user=xmFLvXAAAAAJ
+# footer-links:
+#   channel:
+#     - type: email
+#       name: Email
+#       value: myung.kim@inria.fr
+#     - type: linkedin
+#       name: LinkedIn
+#       value: http://linkedin.com/in/myung-jun-kim-897b201aa
+#     - type: github
+#       name: GitHub
+#       value: http://github.com/myungkim930
+#     - type: scholar
+#       name: Google Scholar
+#       value: https://scholar.google.com/citations?hl=en&user=xmFLvXAAAAAJ
 
 # Build settings
 markdown: kramdown
