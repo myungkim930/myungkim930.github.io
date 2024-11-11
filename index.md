@@ -9,6 +9,10 @@ profile_picture:
 Since Nov. 2022 I am a postdoctoral researcher at SODA Team, INRIA Saclay supervised by Gaël Varoquaux. My work focuses on building pretrain models for tabular data.
 </p>
 
-Previously, I completed my PhD at Ajou University, South Korea under the supervision of Hyunjung (Helen) Shin. My doctoral work
+<p>
+Previously, I completed my PhD at Ajou University, South Korea under the supervision of Hyunjung (Helen) Shin. My doctoral work focused on graph-based machine learning for multi-layered networks.
+</p>
 
-Feel free to reach out
+<p>
+I am interested in 
+</p>
