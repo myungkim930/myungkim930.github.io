@@ -5,12 +5,10 @@ profile_picture:
   alt: website picture
 ---
 
-<h2 style="font-family:Cambria; font-weight=bold">
-  <b> Postdoctoral researcher in machine learning </b>
-</h2>
+
 
 <p>
-  <b> SODA Team, INRIA Saclay </b> <br>
+  SODA Team, INRIA Saclay <br>
   Contact: myung [dot] kim [at] inria [dot] fr
 </p>
 
