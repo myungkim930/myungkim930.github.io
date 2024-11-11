@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <h2 style="font-family:san-serif">
-  <b style="font-weight: bold"> Postdoctoral researcher in machine learning </b>
+  <b> Postdoctoral researcher in machine learning </b>
 </h2>
 
 <p>
