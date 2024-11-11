@@ -6,12 +6,9 @@ profile_picture:
 ---
 
 <p>
-Since Nov. 2022 I am a postdoctoral researcher at INRIA Saclay with the SODA Team. My work mainly focus on 
+Since Nov. 2022 I am a postdoctoral researcher at SODA Team, INRIA Saclay supervised by Gaël Varoquaux. My work focuses on building pretrain models for tabular data.
 </p>
 
-Previously, I 
-
-
-Myungjun Kim received M.S. degree from Ajou University in 2017 and is currently pursuing his Ph.D. degree at Graduate School of Industrial Engineering, Ajou University, South Korea.
+Previously, I completed my PhD at Ajou University, South Korea under the supervision of Hyunjung (Helen) Shin. My doctoral work
 
 Feel free to reach out
