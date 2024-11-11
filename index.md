@@ -6,7 +6,8 @@ profile_picture:
 ---
 
 <p>
-Since Nov. 2022 I am a postdoctoral researcher at SODA Team, INRIA Saclay supervised by Gaël Varoquaux. My work focuses on building pretrain models for tabular data.
+Since Nov. 2022 I am a postdoctoral researcher at SODA Team, INRIA Saclay supervised by <a href="https://gael-varoquaux.info/">Gaël Varoquaux</a>.
+My work focuses on building pretrain models for tabular data.
 </p>
 
 <p>
