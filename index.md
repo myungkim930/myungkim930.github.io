@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-<h2 style="font-family:san-serif">
+<h2 style="font-family:Cambria; font-weight=bold">
   <b> Postdoctoral researcher in machine learning </b>
 </h2>
 
