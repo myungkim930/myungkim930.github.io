@@ -5,13 +5,6 @@ profile_picture:
   alt: website picture
 ---
 
-
-
-<p>
-  SODA Team, INRIA Saclay <br>
-  Contact: myung [dot] kim [at] inria [dot] fr
-</p>
-
 <p>
 Since Nov. 2022 I am a postdoctoral researcher at INRIA Saclay with the SODA Team. My work mainly focus on 
 </p>
