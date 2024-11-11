@@ -10,7 +10,7 @@ profile_picture:
 </h3>
 
 <p>
-  <b> SODA Team, INRIA Saclay </b></br>
+  <b> SODA Team, INRIA Saclay </b> <br>
   Contact: myung [dot] kim [at] inria [dot] fr
 </p>
 
