@@ -5,9 +5,9 @@ profile_picture:
   alt: website picture
 ---
 
-<h3 style="font-family:san-serif">
-  <b> Postdoctoral researcher in machine learning </b>
-</h3>
+<h2 style="font-family:san-serif">
+  <b style="font-weight: bold"> Postdoctoral researcher in machine learning </b>
+</h2>
 
 <p>
   <b> SODA Team, INRIA Saclay </b> <br>
