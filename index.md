@@ -8,8 +8,8 @@ profile_picture:
 <p>
 Since Nov. 2022 I am a postdoctoral researcher at SODA Team, INRIA supervised by 
 <a href="https://gael-varoquaux.info/">Gaël Varoquaux</a>.
-I work on building pretrain models for tabular data from large knowledge bases.
-I am passionate in developing models that incorporate multiple sources of data and providing practical frameworks in various applications.
+My work focuses on building pretrain models for tabular data from large knowledge bases.
+I am passionate in developing models that incorporate multiple sources of data.
 </p>
 
 <p>
