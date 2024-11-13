@@ -8,8 +8,7 @@ profile_picture:
 <p>
 Since Nov. 2022 I am a postdoctoral researcher at SODA Team, INRIA supervised by 
 <a href="https://gael-varoquaux.info/">Gaël Varoquaux</a>.
-My work focuses on building pretrain models for tabular data from large knowledge bases.
-I am passionate in developing models that incorporate multiple sources of data.
+I work on building pretrain models for tabular data from large knowledge bases.
 </p>
 
 <p>
@@ -17,6 +16,10 @@ Previously, I completed my PhD at Ajou University, South Korea supervised by
 <a href="https://alphaminers.ai/">Hyunjung Shin</a>.
 My doctoral work focused on graph-based machine learning for multi-layered networks
 with applications to biomedical data and history.
+</p>
+
+<p>
+I am passionate in developing models that leverage multiple sources of data and providing practical frameworks for various applications.
 </p>
 
 <p>
