@@ -14,7 +14,8 @@ I work on building pretrain models for tabular data from large knowledge bases.
 <p>
 Previously, I completed my PhD at Ajou University, South Korea under the supervision of 
 <a href="https://alphaminers.ai/">Hyunjung (Helen) Shin</a>.
-My doctoral work focused on graph-based machine learning for multi-layered networks.
+My doctoral work focused on graph-based machine learning for multi-layered networks
+with applications to biomedical informatics and history.
 </p>
 
 <p>

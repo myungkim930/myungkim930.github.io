@@ -5,7 +5,7 @@ slug: /publications
 ---
 
 <p>
-Find below my publications by categories in reversed chronological order. See also my
+Find below selected publications in reversed chronological order. See also my
 <a href="https://scholar.google.com/citations?hl=en&user=xmFLvXAAAAAJ">Google Scholar Profile</a>.
 </p>
 <br />
@@ -25,6 +25,19 @@ Sunghong Park, <u>Myung Jun Kim</u>, Kanghee Park, Hyunjung Shin<br />
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320323006179">[Paper]</a>
 </p>
 
+<p>
+<b> Vectorizing string entries for data processing on tables: when are larger language models better? </b><br />
+Léo Grinsztajn, <u>Myung Jun Kim</u>, Edouard Oyallon, Gaël Varoquaux<br />
+<em> arXiv:2312.09634 (2023) </em><br />
+<a href="https://arxiv.org/pdf/2312.09634">[Paper]</a>
+</p>
+
+<p>
+<b> Accelerated Graph Integration with Approximation of Combining Parameters</b><br />
+Taehwan Yun, <u>Myung Jun Kim</u>, Hyunjung Shin<br />
+<em> International Conference on Machine Learning, Optimization, and Data Science (LOD 2023)</em><br />
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-53966-4_13">[Paper]</a>
+</p>
 <p>
 <b> Fast Prediction for Criminal Suspects through Neighbor Mutual Information-Based Latent Network </b><br />
 Jong Ho Jhee, <u>Myung Jun Kim</u>, Myeonggeon Park, Jeongheun Yeon, Hyunjung Shin<br />
@@ -88,8 +101,3 @@ Yonghyun Nam, <u>Myung Jun Kim</u>, Kyungwon Lee, Hyunjung Shin<br />
 <a href="/assets/pdfs/clash.pdf">[Paper]</a>
 </p>
 
-<!-- 
-Modeling string entries for tabular data prediction: do we need big large language models?
-Vectorizing string entries for data processing on tables: when are larger language models better?
-
-Accelerated Graph Integration with Approximation of combining Parameters -->
