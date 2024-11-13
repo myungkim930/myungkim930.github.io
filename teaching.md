@@ -4,9 +4,9 @@ title: Teaching
 slug: /teaching
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
-
-
-
+<p>
+To be updated
+</p>
+<br />
 <br />
 <br />
