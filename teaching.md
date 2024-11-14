@@ -3,9 +3,6 @@ layout: teaching
 title: Teaching
 slug: /teaching
 ---
-<p>
-Find below a list of my teaching experiences.
-</p>
 <br />
 
 <p>
