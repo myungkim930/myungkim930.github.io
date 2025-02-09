@@ -14,7 +14,7 @@ Find below selected publications in reversed chronological order. See also my
 <b> CARTE: Pretraining and Transfer for Tabular Learning </b><br />
 <u>Myung Jun Kim</u>, Léo Grinsztajn, Gaël Varoquaux<br />
 <em>Proceedings of the 41st International Conference on Machine Learning (ICML 2024)</em><br />
-<a href="/assets/pdfs/carte.pdf.pdf">[Paper]</a> 
+<a href="/assets/pdfs/carte.pdf">[Paper]</a> 
 <a href="https://github.com/soda-inria/carte">[Code]</a> 
 </p>
 
@@ -56,14 +56,14 @@ Dong-gi Lee, <u>Myung Jun Kim</u>, Sangjoon Son, Chang Hyung Hong, Hyunjung Shin
 <b> Inference on historical factions based on multi-layered network of historical figures </b><br />
 <u>Myung Jun Kim</u>, Dong-gi Lee, Sangkuk Lee, Geun-ho Lee, Hyunjung Shin<br />
 <em> Expert Systems with Applications (2020) </em><br />
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417420305273">[Paper]</a>
+<a href="/assets/pdfs/SSL_historical.pdf">[Paper]</a> 
 </p>
 
 <p>
 <b> Semi-supervised learning for hierarchically structured networks </b><br />
 <u>Myung Jun Kim</u>, Dong-gi Lee, Hyunjung Shin<br />
 <em> Pattern Recognition (2019) </em><br />
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320319302407">[Paper]</a>
+<a href="/assets/pdfs/SSL_hierarchical.pdf">[Paper]</a> 
 </p>
 
 <p>
