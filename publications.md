@@ -11,6 +11,13 @@ Find below selected publications in reversed chronological order. See also my
 <br />
 
 <p>
+<b> Extremely fast graph integration for semi-supervised learning via Gaussian fields with Neumann approximation </b><br />
+Taehwan Yun, <u>Myung Jun Kim</u>, Hyunjung Shin<br />
+<em>Pattern Recognition (2025)</em><br />
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325001554">[Paper]</a> 
+</p>
+
+<p>
 <b> CARTE: Pretraining and Transfer for Tabular Learning </b><br />
 <u>Myung Jun Kim</u>, Léo Grinsztajn, Gaël Varoquaux<br />
 <em>Proceedings of the 41st International Conference on Machine Learning (ICML 2024)</em><br />
