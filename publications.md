@@ -11,6 +11,14 @@ Find below selected publications in reversed chronological order. See also my
 <br />
 
 <p>
+<b> Table Foundation Models: on knowledge pre-training for tabular learning </b><br />
+<u>Myung Jun Kim</u>, Félix Lefebvre, Gaëtan Brison, Alexandre Perez-Lebel, Gaël Varoquaux<br />
+<em>Transactions on Machine Learning Research (2025)</em><br />
+<a href="/assets/pdfs/tarte.pdf">[Paper]</a> 
+<a href="https://github.com/soda-inria/tarte-ai">[Code]</a> 
+</p>
+
+<p>
 <b> Extremely fast graph integration for semi-supervised learning via Gaussian fields with Neumann approximation </b><br />
 Taehwan Yun, <u>Myung Jun Kim</u>, Hyunjung Shin<br />
 <em>Pattern Recognition (2025)</em><br />
