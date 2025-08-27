@@ -53,6 +53,7 @@ Taehwan Yun, <u>Myung Jun Kim</u>, Hyunjung Shin<br />
 <em> International Conference on Machine Learning, Optimization, and Data Science (LOD 2023)</em><br />
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-53966-4_13">[Paper]</a>
 </p>
+
 <p>
 <b> Fast Prediction for Criminal Suspects through Neighbor Mutual Information-Based Latent Network </b><br />
 Jong Ho Jhee, <u>Myung Jun Kim</u>, Myeonggeon Park, Jeongheun Yeon, Hyunjung Shin<br />
